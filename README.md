@@ -26,16 +26,13 @@
 - **Frontend (React.js)** → Axios, React DOM, React Scripts  
 - **Backend (Node.js)** → Express.js, Cors, Dotenv  
 - **Database (MongoDB)** → Mongoose  
-- **Authentication & Security** → JSON Web Token (JWT), bcryptjs  
-- **Development Tool** → Nodemon
+  
 
 
 
 
 **CHALLENGES FACED AND HOW THEY WERE ADDRESSED**
 1. **Frontend-Backend Communication** → Solved using **CORS**.  
-2. **User Authentication Security** → Solved using **JWT** and **bcryptjs**.  
-3. **Database Management** → Solved using **Mongoose**.  
-4. **API Requests & Updates** → Solved using **Axios**.  
-5. **Server Auto-Restart** → Solved using **Nodemon**.
+2. **Database Management** → Solved using **Mongoose**.  
+
 
