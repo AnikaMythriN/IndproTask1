@@ -13,11 +13,9 @@
 
 
 **ASSUMPTIONS MADE DURING DEVELOPMENT**
-1. **User Authentication** → JWT is used, assuming users must log in before managing tasks.  
-2. **Database** → MongoDB is assumed to be running locally (`mongodb://localhost:27017/taskmanager`).  
-3. **Frontend-Backend Communication** → Backend runs on `http://localhost:5000/`, and frontend on `http://localhost:3000/`.  
-4. **Security** → Passwords are hashed with `bcryptjs`, and API routes are protected with JWT.  
-5. **Task Ownership** → Users can only modify or delete their own tasks.  
+1. **Database** → MongoDB is assumed to be running locally (`mongodb://localhost:27017/taskmanager`).  
+2. **Frontend-Backend Communication** → Backend runs on `http://localhost:5000/`, and frontend on `http://localhost:3000/`.  
+3. **Task Ownership** → Users can only modify or delete their own tasks.  
 
 
 
